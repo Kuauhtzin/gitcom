@@ -1,5 +1,8 @@
 body{
-  background-color: #f7f9ff
-  font-family: sans-serif;
-  color: #1c3643;
+  min-height: 100% !important;
+}
+
+footer{
+  margin-bottom: 0 !important;
+
 }
